@@ -9,4 +9,4 @@ run:
 
 .PHONY: test
 test:
-	mvn test
+	mvn clean test
