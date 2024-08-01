@@ -25,6 +25,10 @@ replay_pid*
 
 # IDE
 .idea/
+*.iml
 
 # java
 target
+
+# macos
+.DS_Store
